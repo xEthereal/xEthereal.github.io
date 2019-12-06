@@ -1,2 +1,2 @@
-# xEthereal.github.io
+# Ethereal's Website
 Ethereal's official website!
