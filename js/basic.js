@@ -1,3 +1,3 @@
 function redirect() {
-    window.location = "xEthereal.github.io/"
+    window.location = "https://xethereal.github.io/"
 }
